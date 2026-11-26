@@ -1,0 +1,12 @@
+# Không đưa mã nguồn hoặc file nhị phân dung lượng lớn vào git
+*.exe
+*.msi
+*.zip
+*.pdb
+*.log
+src-tauri/
+src/
+ui/
+setup-installer/
+target/
+node_modules/
