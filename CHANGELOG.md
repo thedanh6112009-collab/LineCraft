@@ -1,8 +1,8 @@
-## LineCraft v1.2.2
+## LineCraft v1.2.4
 
 ### Nâng cấp mới
-- **Giao diện trình cài đặt Wizard chuyên nghiệp (`LineCraft_v1.2.2_Setup.exe`)**: Thiết kế hiện đại sắc nét theo DPI Windows, thanh tiến trình mượt theo từng bước, tùy chọn lối tắt Desktop/Start Menu và tự động mở ứng dụng sau khi cài.
-- **Tự động cập nhật từ GitHub Releases**: Người dùng bản `v1.2.1` tự động nhận thông báo nâng cấp lên `v1.2.2` ngay trong ứng dụng.
+- **Thông báo cập nhật thông minh**: Chỉ tự động hiện hộp thoại cập nhật **1 lần** cho mỗi phiên bản mới; khi người dùng đóng hộp thoại, nút giọt nước giữ lại **chấm xanh thông báo** để nhắc nhẹ và tự động ẩn khi đã nâng cấp lên bản mới nhất.
+- **Trình cài đặt Wizard `LineCraft_v1.2.4_Setup.exe`**: Giao diện cài đặt chuyên nghiệp, sắc nét theo DPI Windows, thanh tiến trình mượt và tự khởi chạy sau nâng cấp.
 
-## LineCraft v1.2.1
-- Hỗ trợ chia đôi màn hình đọc & chú thích PDF song song trang giấy vô tận, nắn hình giữ nguyên chất liệu 4 loại bút, cục tẩy phân đoạn mượt, thước kẻ & thước đo độ 360°.
+## LineCraft v1.2.2
+- Thiết kế lại trình cài đặt Wizard chuyên nghiệp hỗ trợ nâng cấp im lặng tại chỗ.
