@@ -1,7 +1,7 @@
 {
-  "version": "1.2.1",
-  "tag": "v1.2.1",
-  "installer": "LineCraft_v1.2.1_Setup.exe",
+  "version": "1.2.2",
+  "tag": "v1.2.2",
+  "installer": "LineCraft_v1.2.2_Setup.exe",
   "portable": "LineCraft.exe",
   "repository": "https://github.com/thedanh6112009-collab/LineCraft"
 }
