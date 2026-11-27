@@ -1,3 +1,9 @@
+## LineCraft v1.2.6
+
+### Sửa lỗi & Cải thiện
+- **Chỉnh cỡ chữ trực tiếp trên thanh chọn (`#selection-bar`) & thanh gõ chữ**: Bổ sung nút **A− / nhập số / A+** để tăng giảm cỡ chữ ngay cả khi đang chọn khung chữ hoặc đang gõ văn bản.
+- **Sửa lỗi thanh công cụ chọn bị khuất mép phải**: Tự động đo kích thước thực tế và căn gọn thanh `#selection-bar` / `#text-format-bar` trong khung hình, hiển thị đầy đủ nút **Nhân bản** và **Xóa** ở mọi kích thước cửa sổ.
+
 ## LineCraft v1.2.5
 
 ### Tính năng mới
