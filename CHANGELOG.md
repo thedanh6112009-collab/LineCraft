@@ -1,3 +1,11 @@
+## LineCraft v1.2.7
+
+### Nâng cấp lớn cho Toán · Lý · Hóa, Giảng bài & Học tập
+- **Máy tính khoa học 12 chế độ (`Ctrl+M`)**: Mô phỏng đầy đủ Tính toán phân số/căn thức chính xác (`S⇔D`), Tích phân/Đạo hàm/Tổng, Giải nghiệm `CALC` / `SOLVE` / `FACT`, Số phức, Hệ cơ số (`DEC/HEX/BIN/OCT`), Ma trận, Vectơ, Thống kê & Hồi quy, Bảng giá trị, Phương trình & Hệ phương trình (tới 4 ẩn / bậc 4), Bất phương trình, Tỉ lệ thức, Phân phối xác suất, Hình học tọa độ `Oxyz`, hằng số vật lý–hóa học và đổi đơn vị, hỗ trợ phóng to chiếu TV và chèn thẳng kết quả lên trang.
+- **Xưởng Toán · Lý · Hóa**: Dựng tự động **Bảng biến thiên**, **Cân bằng phương trình Hóa học & Khối lượng mol**, **Chèn Bảng & Danh sách tích chọn**, cùng **Mô phỏng chuyển động trọng lực & va chạm** ngay trên hình vẽ trang nháp.
+- **Compa & Thước Eke ảo + 54 hình mẫu chuyên ngành**: Kéo Compa quay vẽ cung tròn chuẩn theo bán kính `cm`; Thước Eke `45° / 30°-60°` bám mép khi kẻ; bổ sung 18 mẫu mạch điện Vật lý, dụng cụ Hóa học và đồ thị Giải tích.
+- **Công cụ Giảng bài trên TV & Ôn tập**: Cắt vùng đề từ PDF thả sang Note (bấm để nhảy về đúng trang PDF gốc), Ghim đề bài cố định khi cuộn trang, Đánh số bước `① ② ③…`, Băng che đáp án ôn bài, Tua lại nét vẽ từng bước, Thẻ lật ôn tập tự động, Bảng nháp nổi, Mở 2 trang ghi chú song song, Bộ 4 bút lưu nhanh & Làm mượt nét tay, PDF nền dịu mắt, Đổi thứ tự trang PDF, Gắn nhãn môn học, Ghim ghi chú, Lịch sử phiên bản & Thùng rác khôi phục.
+
 ## LineCraft v1.2.6
 
 ### Sửa lỗi & Cải thiện
