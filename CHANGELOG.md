@@ -1,3 +1,9 @@
+## LineCraft v1.2.8
+
+### Cải thiện giao diện
+- **Thanh công cụ luôn gọn 1 hàng trên mọi kích thước màn hình:** Tự động gom nhãn chữ thành biểu tượng gọn và ẩn các nút phụ vào nút **⋯ (Công cụ khác)** trên cả thanh trên cùng, thanh công cụ đáy và thanh PDF thay vì rớt dòng hay che mất trang viết.
+- **Biểu tượng rõ nét cho Máy tính, Toán·Lý·Hóa & Giảng bài:** Bổ sung biểu tượng trực quan cho từng nút để vẫn nhận biết dễ dàng khi thu gọn cửa sổ.
+
 ## LineCraft v1.2.7
 
 ### Nâng cấp lớn cho Toán · Lý · Hóa, Giảng bài & Học tập
