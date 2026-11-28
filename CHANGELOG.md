@@ -1,3 +1,11 @@
+## LineCraft v1.2.9
+
+### Sửa lỗi & Tinh gọn giao diện PDF
+- **Sửa lỗi bấm Xóa không xóa được trên PDF:** Sửa triệt để thao tác bấm nút **Xóa** (hoặc phím `Delete` / `Backspace`) khi chọn nét vẽ, hình, chữ hoặc băng che trên tài liệu PDF.
+- **Thu gọn khoảng cách các trang PDF & bỏ khung/mũi tên thừa:** Các trang PDF xếp khít nhau gọn gàng (14px), loại bỏ khung viền, bóng đổ đậm, dòng nhãn dưới mỗi trang và bỏ hai nút mũi tên thừa trong danh sách trang thu nhỏ PDF.
+- **Dễ dàng tắt & xóa công cụ Giảng bài (`Chạm mở`, `① ② ③`, `Cắt đề`):** Bổ sung nút **×** xóa trực tiếp trên từng băng **Chạm mở**, hỗ trợ xóa bằng cục Tẩy hoặc chuột phải, thêm thanh **Tắt (Esc) / Xóa hết** nổi trên màn hình và mục xóa nhanh trong trình đơn Giảng bài.
+- **Thanh công cụ PDF đơn sắc, gọn nhẹ:** Chuyển toàn bộ nút trên thanh PDF sang biểu tượng nét mảnh đơn sắc đồng bộ và gom các nút phụ vào nút **⋯** để thanh PDF thoáng, dễ nhìn hơn.
+
 ## LineCraft v1.2.8
 
 ### Cải thiện giao diện
